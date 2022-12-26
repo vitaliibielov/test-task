@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "user": "John Alen",
+      "tweets": 125,
+      "followers": 100500,
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses-green-hair_23-2149436201.jpg?w=2000&t=st=1672093932~exp=1672094532~hmac=d16496a62937337753d6eee89e2a48cae09b1095decc8045247782fcc4fe9c46"
+    },
+    {
+      "id": 2,
+      "user": "Finn Kolan",
+      "tweets": 2101,
+      "followers": 1560,
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=2000&t=st=1672093720~exp=1672094320~hmac=1dc49acc5b92898fc44ca5ad18cb2f11cc096c41476c09987205d70052bf9e4f"
+    },
+    {
+      "id": 3,
+      "user": "Alex Lenon",
+      "tweets": 210,
+      "followers": 61520,
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-punk-hair-jacket_23-2149436198.jpg?w=2000&t=st=1672093737~exp=1672094337~hmac=8b55ff5266a6ab29ecc0503506b16c2bde30d744303674f331b278276c6ecb83"
+    },
+    {
+      "id": 4,
+      "user": "Samanta Luv",
+      "tweets": 660,
+      "followers": 521000,
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person_23-2149436182.jpg?w=2000&t=st=1672093757~exp=1672094357~hmac=f4ba7c4dee04ef42c83110948f69a0a681ebbd3eda3ab4212ddca0cd412c887a"
+    },
+    {
+      "id": 5,
+      "user": "Nicko Rolan",
+      "tweets": 1180,
+      "followers": 799020,
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436191.jpg?w=2000&t=st=1672093778~exp=1672094378~hmac=4f12720161347efa124e447c08f951d6710c962b024733e07003eee0a713885c"
+    },
+    {
+      "id": 6,
+      "user": "Alex Daman",
+      "tweets": 370,
+      "followers": 85700,
+      "avatar": "https://img.freepik.com/premium-psd/3d-illustration-older-person-with-glasses_23-2149436203.jpg?w=2000"
+    },
+    {
+      "id": 7,
+      "user": "Ricko Sax",
+      "tweets": 950,
+      "followers": 256200,
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436200.jpg?t=st=1672093831~exp=1672094431~hmac=d96fcfe96ed6f5da730f5ca7dbf893fb686d70e0712ee4632039c2c5ffe519f8"
+    },
+    {
+      "id": 8,
+      "user": "Nora Kiks",
+      "tweets": 1710,
+      "followers": 592200,
+      "avatar": "https://img.freepik.com/premium-psd/3d-illustration-person-with-purple-hair-glasses_23-2149436204.jpg"
+    },
+    {
+      "id": 9,
+      "user": "Victoria Zerman",
+      "tweets": 210,
+      "followers": 12700,
+      "avatar": "https://img.freepik.com/premium-psd/3d-illustration-person-with-leather-jacket_23-2149436206.jpg"
+    }
+  ]
+  
